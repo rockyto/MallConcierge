@@ -1,0 +1,22 @@
+
+App Thinning Size Report for All Variants of MallConcierge
+
+Variant: MallConcierge-20AF0F95-E3A6-48F9-A05D-19B5D43B2F4C.ipa
+Supported variant descriptors: [device: iPad5,3, os-version: 14.0], [device: iPad11,6, os-version: 14.0], [device: iPad5,4, os-version: 14.0], [device: iPad5,1, os-version: 14.0], [device: iPad7,12, os-version: 14.0], [device: iPad7,6, os-version: 14.0], [device: iPad11,7, os-version: 14.0], [device: iPad6,12, os-version: 14.0], [device: iPad5,2, os-version: 14.0], [device: iPad6,11, os-version: 14.0], [device: iPad6,7, os-version: 14.0], [device: iPad7,5, os-version: 14.0], [device: iPad7,11, os-version: 14.0], and [device: iPad6,8, os-version: 14.0]
+App + On Demand Resources size: 1.4 MB compressed, 2 MB uncompressed
+App size: 1.4 MB compressed, 2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: MallConcierge-C96AC913-5F23-4E0F-A37C-EF59D9F7E899.ipa
+Supported variant descriptors: [device: iPad13,2, os-version: 14.0], [device: iPad7,1, os-version: 14.0], [device: iPad8,8, os-version: 14.0], [device: iPad8,4, os-version: 14.0], [device: iPad11,1, os-version: 14.0], [device: iPad8,12, os-version: 14.0], [device: iPad8,1, os-version: 14.0], [device: iPad6,3, os-version: 14.0], [device: iPad7,3, os-version: 14.0], [device: iPad11,4, os-version: 14.0], [device: iPad11,3, os-version: 14.0], [device: iPad8,9, os-version: 14.0], [device: iPad8,7, os-version: 14.0], [device: iPad11,2, os-version: 14.0], [device: iPad13,1, os-version: 14.0], [device: iPad8,3, os-version: 14.0], [device: iPad8,5, os-version: 14.0], [device: MacFamily20,1, os-version: 14.0], [device: iPad8,10, os-version: 14.0], [device: iPad8,6, os-version: 14.0], [device: iPad7,2, os-version: 14.0], [device: iPad6,4, os-version: 14.0], [device: iPad8,2, os-version: 14.0], [device: iPad7,4, os-version: 14.0], and [device: iPad8,11, os-version: 14.0]
+App + On Demand Resources size: 1.4 MB compressed, 2 MB uncompressed
+App size: 1.4 MB compressed, 2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: MallConcierge.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 1.6 MB compressed, 2.2 MB uncompressed
+App size: 1.6 MB compressed, 2.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
